@@ -50,3 +50,10 @@ Validation: both pages were checked in Chromium at 320, 390, 768, and 1440 pixel
 widths for horizontal overflow and valid section anchors. Navigation from the
 overview to Three Pillars and back was exercised. External destinations were not
 verified because the environment’s outbound proxy was unavailable.
+
+## Civic Tech DC colors
+
+Both pages use the palette defined in the public
+[Civic Tech DC website source](https://github.com/civictechdc/civictechdc-website/blob/main/sass/custom/styles.scss):
+navy `#0b1a30`, brand blue `#104378`, gold `#eec05e`,
+light background `#f4f6f9`, muted text `#4a5568`, and borders `#e2e8f0`.
